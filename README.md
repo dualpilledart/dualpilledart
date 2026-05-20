@@ -1,4 +1,2 @@
-<b>the dualpilled journal</b>
-<p>digital journal documenting pixel art processes</p>
-
-------------------------------------
+<!-- Centered heading -->
+<h1 align="center">the dualpilled journal</h1>
